@@ -41,7 +41,7 @@
 
 <br/>
 <div align="left">
-    <img align="left" src="https://www.fivemturk.com/data/avatars/l/17/17798.jpg?1598902379" alt="BetterDiscord" width="45" height="45">
+    <img align="left" src="https://static.wixstatic.com/media/5a5521_0f44baff6a874048b99c4d0484824627~mv2.png/v1/fill/w_520,h_520,al_c,lg_1,q_85,enc_auto/5a5521_0f44baff6a874048b99c4d0484824627~mv2.png" alt="BetterDiscord" width="45" height="45">
     <b><p align="left">How to use Lua Menu</b>
     <br/>Press Del / Page UP and use lua menu without any restrictions!</code></p>
 </div>
