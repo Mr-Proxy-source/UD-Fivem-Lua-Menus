@@ -4,7 +4,7 @@
   <img align="left" src="https://github.com/Mr-Proxy-source/Mr-Proxy-source/blob/main/img/fivem.png" alt="Logo" width="60" height="70">
 
   <h3 align="left">Undetected Lua Menu's</h3>
-  <p align="left">Make your own rules while playing the game and have fun!</p>
+  <p align="left">Make your own rules while playing the game, and have fun!</p>
 
   <br/>
 
